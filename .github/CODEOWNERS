@@ -1,0 +1,3 @@
+*.js @loxt
+.github/ @wesleywillians
+*.go @loxt
